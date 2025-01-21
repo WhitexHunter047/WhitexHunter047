@@ -3,18 +3,50 @@
 
 <img align="right" height="150" src="https://media1.tenor.com/m/p_q9HjxmD2oAAAAd/gojo-daddy.gif"  />
 
-###
-- 🌱 I’m currently learning **OSCP**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>👋 Welcome to My GitHub!</h1>
+  <h2>🚀 About Me</h2>
+    <p>
+        I’m passionate about <strong>cybersecurity</strong>, <strong>programming</strong>, and <strong>networking</strong>, 
+        with a focus on making technology smarter and safer. My interests span <strong>offensive, defensive, 
+        and hybrid cybersecurity</strong>, giving me a 360-degree view of the field.
+    </p>
+    <ul>
+        <li>🌐 Currently diving deeper into <strong>Python</strong> and <strong>networking protocols</strong>.</li>
+        <li>🔒 Enjoy working on tools for <strong>pentesting</strong>, <strong>ethical hacking</strong>, and <strong>blue team strategies</strong>.</li>
+        <li>🛠️ Experienced in improving and customizing open-source tools to enhance their efficiency and usability.</li>
+    </ul>
 
-- 👨‍💻 All of my projects are available at [#CV](#CV)
+  <h2>🌟 Projects & Goals</h2>
+    <ul>
+        <li>🧰 Expanding tools like <strong>CUpp</strong> to generate better wordlists with smarter logic.</li>
+        <li>📘 Writing detailed guides on topics like <strong>Wi-Fi hacking</strong> and <strong>network exploitation</strong> in Arabic.</li>
+        <li>🌈 Exploring creative tech projects, like designing interactive outputs for tools.</li>
+    </ul>
 
-- 📝 I regularly write articles on [#CV](#CV)
+  <h2>🌍 Languages & Interests</h2>
+    <ul>
+        <li>🗣️ Fluent in <strong>Arabic </strong>, <strong>French</strong>, and <strong>English</strong>.</li>
+        <li>🎮 Gamer at heart! I enjoy <strong>RTS games</strong> like Age of Empires and StarCraft-inspired titles.</li>
+        <li>📚 Always learning about emerging tech trends, especially in <strong>AI</strong> and <strong>cybersecurity intelligence</strong>.</li>
+    </ul>
 
-- 💬 Ask me about **everything**
+  <h2>📫 Connect With Me</h2>
+    <ul>
+        <li>💻 <strong>GitHub</strong>: <a href="#">WhitexHunter047</a></li>
+        <li>✉️ <strong>Email</strong>: <a href="mailto:ouarguianas@gmail.com">ouarguianas@gmail.com</a></li>
+    </ul>
 
-- 📫 How to reach me **ouarguianas@gmail.com**
+  <p>Let’s build something amazing together! 🌟</p>
+</body>
+</html>
 
-- 📄 Know about my experiences [#CV](#CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
